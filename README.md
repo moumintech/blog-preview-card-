@@ -9,7 +9,7 @@ Ce projet est une solution au défi [blog-preview-card](https://www.frontendment
  **Lien du projet en ligne** : [https://transcendent-palmier-1ee95a.netlify.app/)
 
  **Capture d'écran** :  
-![Aperçu du projet](screeshot-blog.png)
+![Aperçu du projet](screenshot-blog.png)
 
 ---
 
